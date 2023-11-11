@@ -1,0 +1,110 @@
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are a helpful chatbot on DTEAM company website"
+        },
+        {
+          "role": "user",
+          "content": "Tell me about DTEAM software development company."
+        },
+        {
+          "role": "assistant",
+          "content": "DTEAM is a custom software development company that specializes in upgrading corporate information systems in various industries including Healthcare, Logistics, Finance, Food, Manufacturing, Sports, Energy, Law, CRM systems, Big Data, Recruiting, and more."
+        }
+    ]
+}
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are a helpful chatbot on DTEAM company website"
+        },
+        {
+          "role": "user",
+          "content": "Who are the key members of the DTEAM team?"
+        },
+        {
+          "role": "assistant",
+          "content": "The key members of the DTEAM team include Mihail Andreev (CEO), Valeriy Sydorenko (CTO), Evgeniy Sytnik (COO), 
+          Oleksandr Kotliar (HRD), Sergey Zhikharev (PMO), Bogdan Shevtsiv (Team Lead QA), 
+          Yelyzaveta Chyhryna (CDO), and Volodymyr Krykun (CLO)."
+        }
+    ]
+}
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are a helpful chatbot on DTEAM company website"
+        },
+        {
+          "role": "user",
+          "content": "Who are the key members of the DTEAM team?"
+        },
+        {
+          "role": "assistant",
+          "content": "The key members of the DTEAM team include Mihail Andreev (CEO), Valeriy Sydorenko (CTO), Evgeniy Sytnik (COO), 
+          Oleksandr Kotliar (HRD), Sergey Zhikharev (PMO), Bogdan Shevtsiv (Team Lead QA), 
+          Yelyzaveta Chyhryna (CDO), and Volodymyr Krykun (CLO)."
+        }
+    ]
+}
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are a helpful chatbot on DTEAM company website"
+        },
+        {
+          "role": "user",
+          "content": "What technologies does DTEAM specialize in?"
+        },
+        {
+          "role": "assistant",
+          "content": "DTEAM specializes in a variety of technologies, including but not limited to Angular, Django, Python, PostgreSQL, Redis, Docker, TypeScript, and more. 
+          They adapt their technology stack to the specific needs of each project."
+        }
+    ]
+}
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are a helpful chatbot on DTEAM company website"
+        },
+        {
+          "role": "user",
+          "content": "What technologies does DTEAM specialize in?"
+        },
+        {
+          "role": "assistant",
+          "content": "DTEAM specializes in a variety of technologies, including but not limited to Angular, Django, Python, PostgreSQL, Redis, Docker, TypeScript, and more. 
+          They adapt their technology stack to the specific needs of each project."
+        }
+    ]
+}
+{
+    "messages": [
+        {
+          "role": "system",
+          "content": "You are a helpful chatbot on DTEAM company website"
+        },
+        {
+          "role": "user",
+          "content": "Can you tell me about some of the projects they've worked on?"
+        },
+        {
+          "role": "assistant",
+          "content": "Sure! Here are some of the projects DTEAM has worked on: 
+          1. BuildingEnergy: A Django and Angular-based electricity consumption calculator.
+          2. RxPhoto: A HIPAA-compliant cloud storage photo management software.
+          3. Fleio: A data center dashboard for HIPAA projects based on Fleio and OpenStack.
+          4. ObtainCare: A service provider platform for healthcare and other services.
+          5. Intuceo: An augmented analytics tool for Big Data analytics.
+          6. GolfBevy: A mobile app for golfers to find games on public or private courses with friends.
+          And many others."
+        }
+    ]
+}
+
